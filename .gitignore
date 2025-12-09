@@ -1,0 +1,28 @@
+# Personal input files from Advent of Code
+# (Keep these private as per AoC's request)
+**/input.txt
+
+# Common programming language artifacts
+*.pyc
+__pycache__/
+*.class
+*.o
+*.exe
+node_modules/
+.venv/
+venv/
+*.swp
+*.swo
+*~
+
+# IDE and editor files
+.vscode/
+.idea/
+*.iml
+.DS_Store
+
+# Build outputs
+build/
+dist/
+*.egg-info/
+target/
